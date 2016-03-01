@@ -13,5 +13,6 @@ namespace store.ecommerce.domain.Entities
         public string Descricao { get; set; }
         public decimal Preco { get; set; }
         public string Categoria { get; set; }
+
     }
 }
